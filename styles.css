@@ -46,6 +46,7 @@ header a {
 
 .section-1 {
     display: flex;
+    flex-wrap: wrap;
     background-color: #1F2937;
     padding: 0px var(--padding);
     height: 450px;
